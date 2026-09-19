@@ -99,20 +99,24 @@ This workflow automates the entire lead lifecycle:
 ## Project Structure
 
 ```
-automation-workflow/
+n8n-lead-automation/
 ├── README.md
+├── .gitignore
 ├── Lead Processing Workflow.json          # n8n workflow export (import directly)
 ├── phase 1 of workflow.png                # Phase 1 screenshot
 ├── phase 2 of workflow.png                # Phase 2 screenshot
 ├── phase 3 of workflow.png                # Phase 3 screenshot
-├── Qualified_Lead_Brief_Template.docx     # Google Docs template for lead briefs
-├── PS/                                    # Additional screenshots
-├── lead-generation-workflow/
-│   ├── templates/
-│   │   └── qualified_lead_brief_template.md
-│   └── mock-data/
-│       ├── airtable_crm_mock_data.csv
-│       └── form_submission_mock_data.json
+├── PS/                                    # Detailed workflow screenshots
+│   ├── PS_01.png
+│   ├── PS_02.png
+│   ├── PS_03.png
+│   └── PS_04.png
+└── lead-generation-workflow/
+    ├── templates/
+    │   └── qualified_lead_brief_template.md
+    └── mock-data/
+        ├── airtable_crm_mock_data.csv
+        └── form_submission_mock_data.json
 ```
 
 ---
