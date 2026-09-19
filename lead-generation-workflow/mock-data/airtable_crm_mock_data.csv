@@ -1,0 +1,109 @@
+Name,Email,Age,Gender,Last Feedback,Rating,Total_Revenue
+Priya Sharma,priya.sharma1@example.com,28,Male,"Amazing detail and finish, very impressive.",2,
+Dhruv Gupta,dhruv.gupta2@example.com,33,Male,Absolutely loved it! Great experience.,1,
+Aman Nair,aman.nair3@example.com,20,Male,The quality was excellent and delivery was quick.,4,
+Mohit Shah,mohit.shah4@example.com,28,Male,"The quality was decent, but could be improved.",4,75000.0
+Pooja Patel,pooja.patel5@example.com,26,Female,Expected better quality for the price.,1,100000.0
+Rohan Bansal,rohan.bansal6@example.com,31,Female,Absolutely loved it! Great experience.,4,150000.0
+Priya Saxena,priya.saxena7@example.com,22,Female,"Good experience overall, but there is room for improvement.",3,200000.0
+Vikram Gupta,vikram.gupta8@example.com,21,Male,Looks good but could be slightly better.,1,
+Rohan Saxena,rohan.saxena9@example.com,28,Female,Could be slightly bigger but overall good.,2,75000.0
+Dev Kapoor,dev.kapoor10@example.com,28,Male,"Good experience overall, but there is room for improvement.",2,150000.0
+Kavya Mehta,kavya.mehta11@example.com,34,Female,Looks good but could be slightly better.,5,
+Yash Verma,yash.verma12@example.com,27,Male,Could be slightly bigger but overall good.,4,50000.0
+Aditya Kapoor,aditya.kapoor13@example.com,30,Male,Very unique and well-made product.,4,125000.0
+Neha Joshi,neha.joshi14@example.com,24,Male,The quality was excellent and delivery was quick.,5,50000.0
+Avni Khanna,avni.khanna15@example.com,32,Female,"Amazing detail and finish, very impressive.",2,150000.0
+Manya Gupta,manya.gupta16@example.com,21,Male,"The quality was decent, but could be improved.",2,100000.0
+Manav Gupta,manav.gupta17@example.com,32,Female,"Good experience overall, but there is room for improvement.",4,150000.0
+Nikhil Iyer,nikhil.iyer18@example.com,20,Male,The quality was excellent and delivery was quick.,3,75000.0
+Priya Chopra,priya.chopra19@example.com,33,Male,Very unique and well-made product.,1,50000.0
+Kabir Mehta,kabir.mehta20@example.com,23,Female,The quality was excellent and delivery was quick.,5,
+Neha Bansal,neha.bansal21@example.com,25,Male,"Good experience overall, but there is room for improvement.",3,125000.0
+Aditi Singh,aditi.singh22@example.com,31,Female,"Amazing detail and finish, very impressive.",1,
+Harsh Gupta,harsh.gupta23@example.com,22,Female,Expected better quality for the price.,5,
+Karan Rao,karan.rao24@example.com,25,Female,The quality was excellent and delivery was quick.,5,100000.0
+Ishita Iyer,ishita.iyer25@example.com,26,Female,Beautifully made. Will order again.,3,125000.0
+Anika Mishra,anika.mishra26@example.com,23,Male,"Amazing detail and finish, very impressive.",1,75000.0
+Aditi Shah,aditi.shah27@example.com,27,Male,Absolutely loved it! Great experience.,1,
+Aman Gupta,aman.gupta28@example.com,21,Female,Expected better quality for the price.,5,
+Pooja Rao,pooja.rao29@example.com,26,Male,"Good experience overall, but there is room for improvement.",5,125000.0
+Kavya Rao,kavya.rao30@example.com,33,Male,Expected better quality for the price.,1,100000.0
+Dev Khanna,dev.khanna31@example.com,33,Female,Absolutely loved it! Great experience.,1,
+Naina Agarwal,naina.agarwal32@example.com,23,Male,"Amazing detail and finish, very impressive.",2,150000.0
+Mohit Patel,mohit.patel33@example.com,33,Male,Looks good but could be slightly better.,4,
+Aditya Mishra,aditya.mishra34@example.com,23,Male,The quality was excellent and delivery was quick.,1,
+Kavya Mehta,kavya.mehta35@example.com,33,Female,Very unique and well-made product.,2,100000.0
+Ananya Mehta,ananya.mehta36@example.com,32,Male,Beautifully made. Will order again.,3,125000.0
+Sahil Khanna,sahil.khanna37@example.com,35,Male,"Amazing detail and finish, very impressive.",3,
+Ananya Shah,ananya.shah38@example.com,21,Female,Absolutely loved it! Great experience.,1,200000.0
+Raj Nair,raj.nair39@example.com,25,Male,The quality was excellent and delivery was quick.,1,
+Aditya Sethi,aditya.sethi40@example.com,22,Male,Beautifully made. Will order again.,1,200000.0
+Kavya Shah,kavya.shah41@example.com,21,Male,Beautifully made. Will order again.,5,200000.0
+Anika Agarwal,anika.agarwal42@example.com,28,Male,Could be slightly bigger but overall good.,2,50000.0
+Naina Patel,naina.patel43@example.com,29,Female,Could be slightly bigger but overall good.,1,
+Diya Sethi,diya.sethi44@example.com,23,Male,The quality was excellent and delivery was quick.,2,150000.0
+Nikhil Patel,nikhil.patel45@example.com,31,Male,"Amazing detail and finish, very impressive.",3,50000.0
+Rahul Mishra,rahul.mishra46@example.com,29,Male,The quality was excellent and delivery was quick.,3,
+Karan Joshi,karan.joshi47@example.com,23,Male,The quality was excellent and delivery was quick.,2,50000.0
+Sahil Sethi,sahil.sethi48@example.com,26,Female,"Amazing detail and finish, very impressive.",3,150000.0
+Manya Joshi,manya.joshi49@example.com,21,Male,Beautifully made. Will order again.,3,
+Aarav Agarwal,aarav.agarwal50@example.com,24,Female,"The quality was decent, but could be improved.",4,150000.0
+Shreya Iyer,shreya.iyer51@example.com,20,Male,Expected better quality for the price.,2,150000.0
+Arjun Bansal,arjun.bansal52@example.com,24,Female,"The quality was decent, but could be improved.",1,50000.0
+Tanya Verma,tanya.verma53@example.com,31,Male,"Amazing detail and finish, very impressive.",1,75000.0
+Ira Khanna,ira.khanna54@example.com,24,Male,"The quality was decent, but could be improved.",2,100000.0
+Aditi Mehta,aditi.mehta55@example.com,30,Female,"Amazing detail and finish, very impressive.",3,
+Rohan Saxena,rohan.saxena56@example.com,21,Female,"Amazing detail and finish, very impressive.",2,125000.0
+Dev Chopra,dev.chopra57@example.com,27,Male,Absolutely loved it! Great experience.,2,100000.0
+Simran Joshi,simran.joshi58@example.com,22,Female,Could be slightly bigger but overall good.,5,100000.0
+Dhruv Agarwal,dhruv.agarwal59@example.com,20,Male,Looks good but could be slightly better.,2,200000.0
+Nikhil Verma,nikhil.verma60@example.com,23,Female,Could be slightly bigger but overall good.,3,100000.0
+Manav Nair,manav.nair61@example.com,23,Female,"Good experience overall, but there is room for improvement.",2,50000.0
+Arjun Khanna,arjun.khanna62@example.com,20,Male,Could be slightly bigger but overall good.,4,
+Simran Sethi,simran.sethi63@example.com,30,Male,Looks good but could be slightly better.,5,50000.0
+Ayush Agarwal,ayush.agarwal64@example.com,32,Female,The quality was excellent and delivery was quick.,2,
+Ayush Saxena,ayush.saxena65@example.com,25,Female,Beautifully made. Will order again.,5,
+Riya Chopra,riya.chopra66@example.com,26,Female,"Good experience overall, but there is room for improvement.",5,75000.0
+Diya Mishra,diya.mishra67@example.com,34,Male,The quality was excellent and delivery was quick.,4,
+Meera Chopra,meera.chopra68@example.com,30,Male,"Amazing detail and finish, very impressive.",3,
+Vikram Patel,vikram.patel69@example.com,20,Male,"Amazing detail and finish, very impressive.",4,200000.0
+Aditya Mishra,aditya.mishra70@example.com,33,Male,Beautifully made. Will order again.,4,100000.0
+Kavya Patel,kavya.patel71@example.com,20,Male,Beautifully made. Will order again.,2,
+Anika Mishra,anika.mishra72@example.com,21,Male,Expected better quality for the price.,4,
+Diya Nair,diya.nair73@example.com,30,Female,"Good experience overall, but there is room for improvement.",5,100000.0
+Ira Mishra,ira.mishra74@example.com,25,Female,Very unique and well-made product.,3,
+Pooja Nair,pooja.nair75@example.com,35,Male,Looks good but could be slightly better.,4,
+Sahil Malhotra,sahil.malhotra76@example.com,28,Female,Could be slightly bigger but overall good.,5,
+Karan Patel,karan.patel77@example.com,27,Female,"The quality was decent, but could be improved.",2,
+Ayush Khanna,ayush.khanna78@example.com,30,Female,Beautifully made. Will order again.,1,
+Ayush Saxena,ayush.saxena79@example.com,20,Female,Very unique and well-made product.,1,75000.0
+Riya Saxena,riya.saxena80@example.com,33,Male,Very unique and well-made product.,2,50000.0
+Shreya Rao,shreya.rao81@example.com,20,Female,Could be slightly bigger but overall good.,4,
+Diya Patel,diya.patel82@example.com,20,Female,"Good experience overall, but there is room for improvement.",5,
+Meera Khanna,meera.khanna83@example.com,24,Female,"The quality was decent, but could be improved.",1,50000.0
+Varun Agarwal,varun.agarwal84@example.com,26,Female,Could be slightly bigger but overall good.,3,100000.0
+Pooja Khanna,pooja.khanna85@example.com,28,Male,Very unique and well-made product.,1,150000.0
+Ananya Bansal,ananya.bansal86@example.com,27,Male,Absolutely loved it! Great experience.,1,
+Vikram Sharma,vikram.sharma87@example.com,24,Male,"The quality was decent, but could be improved.",4,
+Harsh Kapoor,harsh.kapoor88@example.com,34,Female,Could be slightly bigger but overall good.,2,200000.0
+Manav Singh,manav.singh89@example.com,25,Female,Expected better quality for the price.,5,
+Riya Shah,riya.shah90@example.com,32,Female,"Amazing detail and finish, very impressive.",1,200000.0
+Kavya Singh,kavya.singh91@example.com,29,Male,"Good experience overall, but there is room for improvement.",1,75000.0
+Dhruv Khanna,dhruv.khanna92@example.com,31,Male,The quality was excellent and delivery was quick.,3,
+Ayush Rao,ayush.rao93@example.com,23,Female,Could be slightly bigger but overall good.,4,
+Shreya Mehta,shreya.mehta94@example.com,28,Female,Very unique and well-made product.,4,200000.0
+Pooja Agarwal,pooja.agarwal95@example.com,27,Male,Looks good but could be slightly better.,4,
+Diya Shah,diya.shah96@example.com,32,Female,Absolutely loved it! Great experience.,4,75000.0
+Sneha Rao,sneha.rao97@example.com,26,Female,Looks good but could be slightly better.,3,50000.0
+Manav Joshi,manav.joshi98@example.com,20,Male,Expected better quality for the price.,2,100000.0
+Manya Iyer,manya.iyer99@example.com,27,Female,Very unique and well-made product.,4,
+Meera Chopra,meera.chopra100@example.com,27,Female,"Amazing detail and finish, very impressive.",3,200000.0
+Tanya Rao,tanya.rao101@example.com,31,Female,The quality was excellent and delivery was quick.,3,75000.0
+Diya Joshi,diya.joshi102@example.com,29,Female,"Amazing detail and finish, very impressive.",1,
+Yash Singh,yash.singh103@example.com,25,Male,"Amazing detail and finish, very impressive.",4,50000.0
+Avni Nair,avni.nair104@example.com,29,Male,"Amazing detail and finish, very impressive.",3,
+Tanya Mehta,tanya.mehta105@example.com,29,Male,The quality was excellent and delivery was quick.,2,50000.0
+Arjun Verma,arjun.verma106@example.com,29,Male,Very unique and well-made product.,1,
+Harsh Chopra,harsh.chopra107@example.com,35,Female,Very unique and well-made product.,3,
+Ananya Joshi,ananya.joshi108@example.com,35,Male,Expected better quality for the price.,4,125000.0
